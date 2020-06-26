@@ -1,0 +1,3 @@
+AX-17357,gtggtAatCTttgatcaCGaACA,gtggtAatCTttgatcaCGaACG,tggttgccacaaagacTAATGT
+AX-10893,actcggagaagaaaatgccA,actcggagaagaaaatgccG,tcgttgtcttcggagtttcC
+AX-10891,cgagatgtaatgtgtgggactG,cgagatgtaatgtgtgggactA,agcggctactgacgatcT
